@@ -28,7 +28,7 @@ function Register() {
         email: email
       }));
       
-      history.push('/dashboard');
+      history.push('/Homepage');
     } catch (err) {
       setError('Falha no registro. Tente novamente.');
       console.error('Erro de registro:', err);

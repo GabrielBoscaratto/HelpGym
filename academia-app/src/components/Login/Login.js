@@ -21,7 +21,7 @@ function Login() {
         email: email
       }));
       
-      history.push('/dashboard');
+      history.push('/homepage');
     } catch (err) {
       setError('Falha no login. Verifique suas credenciais.');
       console.error('Erro de login:', err);

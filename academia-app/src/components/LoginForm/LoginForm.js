@@ -21,7 +21,7 @@ function LoginForm() {
         email: email
       }));
       
-      navigate('/dashboard');
+      navigate('/homepage');
     } catch (err) {
       setError('Falha no login. Verifique suas credenciais.');
       console.error('Erro de login:', err);
