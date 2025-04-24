@@ -1,0 +1,5 @@
+[2025-04-21 18:57:48] \033[1;33mNão foi possível determinar se é um projeto Maven ou Gradle.\033[0m
+[2025-04-21 18:57:48] \033[1;33mTentando executar com Maven (assumindo que mvn está disponível)...\033[0m
+[2025-04-21 18:57:48] Backend iniciado com PID: 49848 (logs em backend_output.log)
+[2025-04-21 19:45:44] \033[1;33mNão foi possível determinar se é um projeto Maven ou Gradle.\033[0m
+[2025-04-21 19:45:44] \033[1;33mTentando com Maven...\033[0m
